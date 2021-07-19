@@ -1,0 +1,36 @@
+body {
+  text-align: center;
+  background: #3e4444;
+  background-size: cover;
+  background-position: center;
+  font-family: "Courier New", Courier, monospace;
+  color: white;
+}
+
+p {
+  font-size: 22px;
+}
+
+input {
+  border: 0;
+  padding: 10px;
+  font-size: 18px;
+}
+input[type="submit"] {
+  color: white;
+  background: #ea4335;
+}
+input[type="button"] {
+  color: white;
+  background: #ea4335;
+}
+
+ul > a {
+  color: #4285f4;
+  list-style: none;
+}
+#navbar {
+  display: ;
+}
+footer {
+}
